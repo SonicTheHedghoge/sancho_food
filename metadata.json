@@ -1,0 +1,6 @@
+{
+  "name": "Sancho Food Djerba",
+  "description": "Site officiel de Sancho Food à Djerba Midoun : pizzeria artisanale, sandwichs gourmands, makloub, avis clients et assistant IA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
